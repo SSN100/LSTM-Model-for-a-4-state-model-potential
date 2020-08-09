@@ -1,0 +1,1 @@
+# LSTM-Model-for-a-4-state-model-potential
